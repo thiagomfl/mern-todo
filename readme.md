@@ -1,6 +1,6 @@
 # MERN Todo List
 
-> Todo list app built with the MERN stack along with Redux for state management, Reactstrap and react-transition-group.
+Todo list app built with the MERN stack along with Redux for state management, Reactstrap and react-transition-group.
 
 ## Quick Start
 
